@@ -1,7 +1,7 @@
 {
 	"GamerBitPin.P1|block": "X Knopf",
 	"GamerBitPin.P2|block": "Y Knopf",
-	"GamerBitPin.P8|block": "D-PAD Hoch",
+	"GamerBitPin.P16|block": "D-PAD Hoch",
 	"GamerBitPin.P13|block": "D-PAD Runter",
 	"GamerBitPin.P14|block": "D-PAD Links",
 	"GamerBitPin.P15|block": "D-PAD Rechts",
